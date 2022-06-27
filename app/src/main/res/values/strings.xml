@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atma Jogja Rental</string>
+    <string name="kode_promo">Kode Promo : </string>
+    <string name="jenis_promo">Jenis Promo :</string>
+    <string name="keterangan">Keterangan :</string>
+    <string name="potongan_harga">Potongan Harga :</string>
+    <string name="login">Login Atma Jogja Rental</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="clear_field">Clear Field</string>
+</resources>
